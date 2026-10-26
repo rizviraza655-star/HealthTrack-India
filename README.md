@@ -1,5 +1,14 @@
 # HealthTrack India – Data-Driven Health Risk & Healthcare Accessibility Analysis
 
+## Live Demo
+
+**Explore the interactive dashboard:**  
+[HealthTrack India – Live Dashboard](https://healthtrack-india.streamlit.app/)
+
+**GitHub Repository:**  
+[View Source Code](https://github.com/rizviraza655-star/HealthTrack-India)
+
+
 A data analysis and visualization project that explores district-level health indicators across India using NFHS-5 data. The project uses Python, Pandas, Scikit-learn, and Streamlit to analyze healthcare accessibility, maternal health, nutrition, and health-related indicators.
 
 ## Project Overview
